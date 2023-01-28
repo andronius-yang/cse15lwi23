@@ -1,8 +1,6 @@
 # CSE 15L Blog
 ### Author: Andrew Yang
-
-## [Lab 1](/labs/lab1.md)
-## Lab Report for Jan. 11 Session
+## Lab Report 2
 Remote access for CSE 15L is fairly straightforward.
 
 ### Installing Visual Studio Code
