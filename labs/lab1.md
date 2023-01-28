@@ -8,7 +8,7 @@ Firstly, access to a shell is required. Installing Visual Studio Code (abbreviat
 
 To install, navigate to the official [website](https://code.visualstudio.com/download) and follow the instructions there to install VSCode for various operating systems.
 
-![Image](/img/1.png)
+![Image](../img/1.png)
 
 This is a screenshot of VSCode installed onto my computer. It will look different for different users upon installation. Simply follow the "get started" instructions on VSCode to finish initialization. The specifics of configuring VSCode is out of scope for this current lab session.
 
@@ -23,12 +23,12 @@ It should also be noted here that logging in the first time will also require yo
 
 Once the password is successfully entered, remote access is now established.
 
-![Image](/img/2.png)
+![Image](../img/2.png)
 
 ### Testing Out Commands
 The last step is to confirm that commands work. For my personal account, I was able to look around my directory (which has nothing but the `perl5` folder) and create my own directory with a file in it.
 
-![Image](/img/3.png)
+![Image](../img/3.png)
 
 I used the `ls` and `mkdir` commands to create the directory `lab1` and also created the text file `data.txt` with the words `hello world!` in it. I then used `cat` to ensure that text was successfully inputted into the file.
 
