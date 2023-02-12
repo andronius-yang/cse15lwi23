@@ -52,7 +52,7 @@ $ grep -n "reporting" written_2/non-fiction/OUP/Abernathy/ch14.txt
 $
 ```
 Similar to previous options, when supplied with files that do not contain the expression, the option doesn't output anything.
-### Option `r`
+### Option `-r`
 The `-r` option allows for recursive searching in a given path combined with other options. This makes it especially useful since previously this was achieved through using `find` and `xargs` commands.
 
 Sample input 1:
